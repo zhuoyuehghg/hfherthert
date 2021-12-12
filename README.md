@@ -81,3 +81,7 @@ vQwMyMvj
 virmach最近一直有黑五电商星期一活动，常规配置6.3刀一年 折合人民币不到40元一年，支持支付宝，paypal付款。建议选择西雅图，圣何塞，洛杉矶节点，到国内速度不错。。。同时我自己买的水牛城和圣何塞节点，测试都可以观看netflix美国地区非自制片。
 https://billing.virmach.com/aff.php?aff=1179&url=www.virmach.com/special-offers
 
+cloudcone双十二活动，
+https://app.cloudcone.com/vps/70/create?token=12.12-vps-offer-1&ref=5687
+
+
