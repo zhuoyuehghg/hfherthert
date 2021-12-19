@@ -64,16 +64,14 @@ vless://10874d1a-cbd6-4b6f-db1d-38d78b3fb108@ip.2024.ml:443?flow=xtls-rprx-direc
 注册邀请码：
 
 ```
-l3aBsKkP
-VTheVHYQ
 7dtHQxi6
-bUsqXvuz
-ls7spXgk
-brBpflpF
 nq3sfOrJ
 vkKxIOuk
 CVrcUnjY
 vQwMyMvj
+XaCkLSEo
+JWvXp2L8
+wvH2MuRq
 ```
 
 如果以上不能满足你需要（例如不同地区流媒体解锁等），你可以自己购买vps，自己搭建。
