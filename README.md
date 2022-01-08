@@ -13,6 +13,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
 
+#### 注意一键部署已失效，刚看到有朋友说heroku检测到代码违反服务协议，估计使用的人太多或被人举报。这里建议你fork本代码后，在github里设置为私有，然后绑定你github到heroku使用，一般可以解决。后续会出详细教程
 ## 注意
 
 ### 路径
@@ -61,7 +62,6 @@ https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 香港和新加坡节点本身带宽小，用的人太多流量已超标，暂停免费使用。后续会增加法兰克福，洛杉矶、纽约、东京，多伦多等5个免费节点。其中部分会针对联通和电信停机免流优化。
 最近疫情比较严重，刚回来就被拉酒店隔离，电脑不在身边。原计划本周新增免费节点，推迟到两周后，计划除夕前完成，同时会完成最新服务端升级。。。因为在隔离，部分用户在网站客服上的提问无法及时一一回答，要么邮箱联系，要么tg。
 
-#### 注意 刚看到有朋友说heroku检测到代码违反服务协议。这里建议你fork本代码后，在github里设置为私有，然后绑定你github到heroku使用，一般可以解决。后续会出详细教程
 
 ### 近期特价服务器推荐
 
