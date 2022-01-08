@@ -13,7 +13,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
 
-#### 注：一键部署已失效，刚看到有朋友说heroku检测到代码违反服务协议，估计使用的人太多或被人举报。这里建议你fork本代码后，在github里设置为私有，然后绑定你github到heroku使用，一般可以解决。后续会出详细教程
+#### 注：上方一键部署已失效，刚看到有朋友说heroku检测到代码违反服务协议，估计使用的人太多或被人举报。这里建议你fork本代码后，在github里设置为私有，然后绑定你github到heroku使用，一般可以解决。后续会出详细教程
 ## 设置
 
 ### 路径
