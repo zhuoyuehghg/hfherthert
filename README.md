@@ -16,8 +16,8 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 #### 注：上方一键部署已失效，刚看到有朋友说heroku检测到代码违反服务协议，估计使用的人太多或被人举报。这里建议你fork本代码后，在github里设置为私有，然后绑定你github到heroku使用，一般可以解决。
 
-https://dashboard.heroku.com/new?template=https://github.com/xxx/heroku-vless.git 
-如果不想设置私有，Fork本项目之后将xxx改成你自己github的名字，通过链接部署即可。切记尽量不要在自己网站宣传，容易被举报后标记。
+https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.git 
+如果不想设置私有，Fork本项目之后将rptec改成你自己github的名字，通过链接部署即可。切记尽量不要在自己网站宣传，容易被举报后标记。免费服务，且用且珍惜。
 
 ## 设置
 
@@ -70,7 +70,7 @@ https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 
 ### 近期特价服务器推荐
 
-如果以上不能满足你需要（例如不同地区流媒体解锁等），你可以自己购买vps，自己搭建。
+如果以上不能满足你需要（例如不同地区流媒体解锁等），你可以自己购买vps，自己搭建。也可tg联系我。
 
 virmach最近一直有黑五电商星期一活动，常规配置6.3刀一年 折合人民币不到40元一年，支持支付宝，paypal付款。建议选择西雅图，圣何塞，洛杉矶节点，到国内速度不错。。。同时我自己买的水牛城和圣何塞节点，测试都可以观看netflix美国地区非自制片。
 https://billing.virmach.com/aff.php?aff=1179&url=www.virmach.com/special-offers
