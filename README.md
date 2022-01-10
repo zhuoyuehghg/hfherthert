@@ -59,7 +59,7 @@ https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 
 
 
-
+## 临时替代品 2024 
 或者你也可以 使用 https://2024.ml/ 
 
 使用永久优惠码 `FREE2024` 选择免费套餐，流量超出后可再次使用增加流量（注:我提供多个节点免费使用，每帐号每月1T流量，已关闭支付接口，请勿支付，其中带广告屏蔽线路，屏蔽youtube等视频站点广告，带netflix等线路支持新加坡netflix解锁）
