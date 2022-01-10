@@ -7,9 +7,9 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 刚测试了一下，herokuapp.com这个域名部分地区已经被墙（2021.9.27），故现在如果不配置cf流量中转，这个将无法稳定使用，建议使用cloudflare的workers的流量中转，速度更快，原则上使用后不会有被墙风险。
 
-## 镜像
+## 一键部署
 
-经测试本镜像占用内存资源较低，运行稳定。
+经测试本镜像占用内存资源较低，运行稳定。点击下方紫色图标部署。
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
 
