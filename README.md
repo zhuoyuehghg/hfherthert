@@ -81,7 +81,9 @@ https://app.cloudcone.com/vps/70/create?token=12.12-vps-offer-1&ref=5687
 
 ## 测速
 heroku服务器选美国区的话一般在亚马逊弗吉尼亚阿什本节点，套cf后，速度取决于你自选ip的速度。
+
 youtube非高峰期一般能跑30000-50000kbps。
+![](https://so.21t.co/2021/06/15/668c92.png)
 
 我这边用手机测速speedtest一般可以跑150M。
 
