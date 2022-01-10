@@ -14,10 +14,15 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
 
 
-#### 注：上方一键部署已失效，刚看到有朋友说heroku检测到代码违反服务协议，估计使用的人太多或被人举报。这里建议你fork本代码后，在github里设置为私有，然后绑定你github到heroku使用，一般可以解决。
+#### 注：失效问题
+上方一键部署已失效，刚看到有朋友说heroku检测到代码违反服务协议，估计使用的人太多或被人举报仓库被heroku封了。
 
-https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.git 
-如果不想设置私有，Fork本项目之后将rptec改成你自己github的名字，通过链接部署即可。切记尽量不要在自己网站宣传，容易被举报后标记。免费服务，且用且珍惜。
+#### 解决方法：这里建议你fork本代码后，在github里设置为私有，然后绑定你github到heroku使用，一般可以解决。
+或者fork代码后，修改下面链接rptec为你自己账户名，通过链接部署。
+
+https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.git
+
+免费服务，且用且珍惜。
 
 ## 设置
 
