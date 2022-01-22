@@ -38,8 +38,11 @@ https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.
 
 ### 端口
 
-`端口` 为 `443` 。 
-
+`端口` 为 `443` 。
+ 
+如果你使用电信或者联通上网，也可以将端口修改为80或者8080，以达到免流目的。
+免流时不需要cf自选ip，只需要根据你的卡套餐，选择修改对应的伪装域名。
+具体方法这里不做说明，请自行google。
 
 ### UUID
 
