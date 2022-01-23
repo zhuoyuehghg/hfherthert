@@ -75,6 +75,13 @@ https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 
 搭建中有任何问题，也可以联系我 https://t.me/herokuvless
 
+## 云服务器自行搭建
+
+手动搭建可参考我代码中 configure.sh内容，修改uuid等信息就可以手动部署。
+
+建议新手使用x-ui一键安装，附带web面板。使用起来简单。
+
+https://github.com/vaxilu/x-ui
 
 ## 测速
 heroku服务器选美国区的话一般在亚马逊弗吉尼亚阿什本节点，套cf后，速度取决于你自选ip的速度。
