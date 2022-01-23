@@ -46,6 +46,8 @@ https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.
 
 具体方法这里不做说明，请自行google。
 
+关于自选ip，需要根据你自己网络和地区确定，如果你不想找也可以用我提供的，ip.2024.ml，但是适合我的未必适合你。
+
 ### UUID
 
 `UUID` 默认为 `10974d1a-cbd6-4b6f-db1d-38d78b3fb109` 你也可以在部署时自由修改（建议修改）。
