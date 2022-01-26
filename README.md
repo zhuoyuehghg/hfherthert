@@ -7,7 +7,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 本项目用于在 Heroku 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 xray core。相比vmess，vless的性能更加优秀，占用资源更少，运行更加稳定。
 
-刚测试了一下，herokuapp.com这个域名部分地区已经被墙（2021.9.27），故现在如果不配置cf流量中转，这个将无法稳定使用，建议使用cloudflare的workers的流量中转，速度更快，原则上使用后不会有被墙风险。
+建议使用cloudflare的workers的流量中转，速度更快，原则上使用后不会有被墙风险。
 
 ## 一键部署
 
@@ -37,16 +37,6 @@ https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.
 ### 端口
 
 `端口` 为 `443` 。
-
-### 免流
-
-如果你使用电信或者联通手机卡上网，也可以将端口修改为80或者8080，以达到免流目的，实现不限速不限量。
-
-免流时不需要cf自选ip，只需要根据你的手机卡套餐，选择修改对应的伪装域名。
-
-具体方法这里不做说明，请自行google。
-
-关于自选ip，需要根据你自己网络和地区确定，如果你不想找也可以用我提供的，ip.2024.ml，但是适合我的未必适合你。
 
 ### UUID
 
