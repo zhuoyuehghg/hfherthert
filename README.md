@@ -76,14 +76,13 @@ https://github.com/vaxilu/x-ui
 ## 测速
 heroku服务器选美国区的话一般在亚马逊弗吉尼亚阿什本节点，套cf后，速度取决于你自选ip的速度。
 
-youtube非高峰期一般能跑30000-50000kbps。
-![](https://so.21t.co/2021/06/15/668c92.png)
+自选IP后youtube非高峰期一般能跑30000-50000kbps。可以流畅播放4K视频。
+![speedtest](https://img.21t.co/2022/04/19/8a697d.png)
+原版、套CF、自选IP速度对比，自选IP明显要高出一大截。我这边在国内用手机测速speedtest一般可以跑150M以上。
 
-我这边在国内用手机测速speedtest一般可以跑150M。
+## 自选IP
 
-![speedtest](https://img.21t.co/2022/01/10/d67940.png
-)
-
+https://github.com/badafans/better-cloudflare-ip
 
 ## 临时替代品 2024 
 或者你也可以 使用 https://2024.ml/ 
