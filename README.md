@@ -60,6 +60,12 @@ addEventListener(
 ```
 
 
+VLESS链接
+自行修改其中 自选IP和你的heroku地址
+```
+vless://10974d1a-cbd6-4b6f-db1d-38d78b3fb109@你的自选ip:443?encryption=none&flow=xtls-rprx-direct&security=tls&sni=你的HEROKU地址或CF反代地址&type=ws&host=你的HEROKU地址或CF反代地址#heroku
+
+```
 详细教程
 https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 
