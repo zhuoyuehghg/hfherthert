@@ -50,7 +50,7 @@ https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.
 addEventListener(
       "fetch",event => {
          let url=new URL(event.request.url);
-         url.hostname="你的heroku域名.herokuapp.com";
+         url.hostname="HEROKU地址，例如 rptec.herokuapp.com";
          let request=new Request(url,event.request);
          event. respondWith(
            fetch(request)
