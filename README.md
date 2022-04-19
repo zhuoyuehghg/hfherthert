@@ -80,9 +80,14 @@ heroku服务器选美国区的话一般在亚马逊弗吉尼亚阿什本节点�
 ![speedtest](https://img.21t.co/2022/04/19/8a697d.png)
 原版、套CF、自选IP速度对比，自选IP明显要高出一大截。我这边在国内用手机测速speedtest一般可以跑150M以上。
 
-## 自选IP
+## 自选IP教程
+最近经常有人问如何自选ip，以前博客发过，后来因为觉得没什么作用，太简单就删了。现在重新贴出来吧，你下载下面工具自己执行即可。
 
 https://github.com/badafans/better-cloudflare-ip
+
+![自选IP配置](https://so.21t.co/2021/06/15/ed87c8.png)
+
+自选ip后，将图中Address中原地址修改为你自选ip（使用域名也可）。
 
 ## 临时替代品 2024 
 或者你也可以 使用 https://2024.ml/ 
