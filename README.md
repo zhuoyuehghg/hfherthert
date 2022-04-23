@@ -107,4 +107,4 @@ https://github.com/badafans/better-cloudflare-ip
 #### 2024邀请码 
 
 你可以找老用户索取邀请码
-也可以访问 https://21t.co/admin 定期获取
+也可以访问 https://21t.co/admin 或https://t.me/herokuvless  获取
