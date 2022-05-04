@@ -108,3 +108,7 @@ https://github.com/badafans/better-cloudflare-ip
 
 你可以找老用户索取邀请码
 也可以访问 https://21t.co/admin 或https://t.me/herokuvless  获取
+
+
+### 详细文字教程（面向0基础新手）感谢@我的未来不是梦 编写。
+http://yun.21t.co/aliyun/电子资料/Heroku搭建教程.docx
